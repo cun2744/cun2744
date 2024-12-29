@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 <!--
 **cun2744/cun2744** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
